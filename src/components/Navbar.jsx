@@ -31,7 +31,7 @@ const Navbar = () => {
           <div className="logo">
             <a href="#">
               <img
-                src="../src/assets/Logo.png"
+                src="https://1mdm.com/about/assets/1mdm-168x58.png"
                 alt="Company logo"
                 className="h-10 transition-transform duration-300 hover:scale-105"
               />
