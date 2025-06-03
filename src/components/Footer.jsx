@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="bg-black text-white">
-      <div className="main-container py-10 flex flex-col justify-between px-4">
+      <div className="main-container py-10 flex flex-col md:flex-row justify-between px-4">
         <div className="flex flex-col gap-4 ">
           <img
             src="https://1mdm.com/about/assets/logo-white.png"
